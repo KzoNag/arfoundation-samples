@@ -14,24 +14,35 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   values:
   - ARCollaborationDataExample
+  - ARKitCoachingOverlay
   - ARWorldMap
+  - Anchors
   - CameraImage
   - Check Support
   - EnvironmentProbes
   - ARCoreFaceRegions
   - ARKitFaceBlendShapes
+  - EyeLasers
+  - EyePoses
   - FaceMesh
   - FacePose
-  - RearCameraWithFrontCameraFaceMesh
+  - FixationPoint
+  - WorldCameraWithUserFacingFaceTracking
   - HumanBodyTracking2D
   - HumanBodyTracking3D
   - HumanSegmentationImages
   - ImageTracking
   - LightEstimation
+  - ClassificationMeshes
+  - NormalMeshes
+  - OcclusionMeshes
   - ObjectTracking
   - FeatheredPlanes
+  - PlaneClassification
   - TogglePlaneDetection
+  - PlaneOcclusion
+  - AllPointCloudPoints
   - Scale
   - SimpleAR
   - SampleUXScene
-  - ReferencePoints
+  - RealEnvironment
